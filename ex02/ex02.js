@@ -14,7 +14,7 @@ function criptografa(text) {
         return alfabeto.indexOf(char)
     })
     
-    console.log(cripto.join(''))
+    return console.log(cripto.join(''))
 }
 
 criptografa('arroz com feijão')

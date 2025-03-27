@@ -1,0 +1,1 @@
+/* challenge: Return hour in seconds */
